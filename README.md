@@ -81,3 +81,8 @@ A decentralized application (DApp) built on Ethereum using **Solidity**, **Truff
 - Truffle
 - Ganache
 - MetaMask browser extension
+
+npm install
+truffle compile
+truffle migrate
+npm run dev
